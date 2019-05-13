@@ -11,6 +11,7 @@ namespace hellogit
         static void Main(string[] args)
         {
             System.Console.WriteLine("helllo git!");
+            System.Console.WriteLine("good bye!");
         }
     }
 }
