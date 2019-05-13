@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hellogit", "hellogit.csproj", "{64624E05-99E2-4008-BEA8-5CDBF605C35C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64624E05-99E2-4008-BEA8-5CDBF605C35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64624E05-99E2-4008-BEA8-5CDBF605C35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64624E05-99E2-4008-BEA8-5CDBF605C35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64624E05-99E2-4008-BEA8-5CDBF605C35C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73B7971-D2BB-4F15-92BF-5F056770C624}
+	EndGlobalSection
+EndGlobal
